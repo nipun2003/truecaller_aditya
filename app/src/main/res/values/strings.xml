@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">truecaller</string>
+    <string name="_15th_character_result">15th Character Result:</string>
+    <string name="website_content">Website Content:</string>
+    <string name="every_15th_character_result">Every 15th Character Result:</string>
+    <string name="word_count_result">Word Count Result:</string>
+    <string name="load_content">Load Content</string>
+</resources>
